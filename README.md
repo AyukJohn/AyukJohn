@@ -1,27 +1,36 @@
-### Hi there 👋
-I am John Ayuk, a backend softwared developer, 
-- 🌱 I love building technologies that brings solution to peoples tech problem.
+👨‍💻 Hello there, I'm John Ayuk! 👋
+I'm a passionate backend software developer with a strong drive for creating innovative solutions to address the technological challenges people face. 🌱
 
-- 🔭 I’m currently working on many prjects..
+💼 Currently, I'm deeply immersed in a multitude of exciting projects, leveraging my skills and expertise to make a meaningful impact in the software world. I primarily work with languages and frameworks such as:
+- 💻 PHP (especially Laravel)
+- 🐍 Python (with a focus on Django)
+- 🌐 JavaScript
+- 🖼️ Vue.js
 
-- 📫 How to reach me? well, here are my contacts [email:johnayuk12@mail.com, phone:+234 9068101568, 
-linkedin:Johnayuk, Twitter:@Dev_Ebi]
+🤝 I'm always on the lookout for collaboration opportunities on interesting software development projects. If you have an idea and need a dedicated coder with expertise in these technologies to bring it to life, feel free to connect with me! 👯
 
-- 👯 I’m looking to collaborate on any projets out there to bring something special
+⚡ Fun fact about me: When I'm not immersed in code, you'll often find me enjoying a good game of football or delving into a captivating book. I believe that a well-rounded life leads to well-rounded creativity in coding and problem-solving. ⚽📚
 
-- ⚡ Fun fact: football game when i am free, and reading too
 
-<!--
-**AyukJohn/AyukJohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on the following projects:
+- Azabox
+- SmilePayAfrica
+- Fintab
+- V Express
 
-Here are some ideas to get you started:
+🌱 I’m currently learning Artificial Intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I’m looking to collaborate on machine learning projects.
+
+🤔 I’m looking for help with...
+
+💬 Feel free to ask me about anything related to software engineering!
+
+📫 How to reach me:
+- WhatsApp: +234 9068101568
+- Facebook: Ayuk John
+- Twitter: @Dev_Ebi
+- LinkedIn: John Ayuk
+- ✉️ Email: johnayuk12@mail.com
+  
+
