@@ -3,7 +3,7 @@ I'm a passionate backend software developer with a strong drive for creating inn
 
 💼 Currently, I'm deeply immersed in a multitude of exciting projects, leveraging my skills and expertise to make a meaningful impact in the software world. I primarily work with languages and frameworks such as:
 - 💻 PHP (especially Laravel)
-- 🐍 Python (with a focus on Django)
+-  Python (with a focus on Django)
 - 🌐 JavaScript
 - 🖼️ Vue.js
 
@@ -17,12 +17,11 @@ I'm a passionate backend software developer with a strong drive for creating inn
 - SmilePayAfrica
 - Fintab
 - V Express
+- Antenna
 
 🌱 I’m currently learning Artificial Intelligence.
 
 👯 I’m looking to collaborate on machine learning projects.
-
-🤔 I’m looking for help with...
 
 💬 Feel free to ask me about anything related to software engineering!
 
