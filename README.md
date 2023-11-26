@@ -2,8 +2,8 @@
 I'm a passionate backend software developer with a strong drive for creating innovative solutions to address the technological challenges people face. 🌱
 
 💼 Currently, I'm deeply immersed in a multitude of exciting projects, leveraging my skills and expertise to make a meaningful impact in the software world. I primarily work with languages and frameworks such as:
-- 💻 PHP (especially Laravel)
--  Python (with a focus on Django)
+- 🐘 PHP (especially Laravel)
+- 🐍 Python (with a focus on Django)
 - 🌐 JavaScript
 - 🖼️ Vue.js
 
