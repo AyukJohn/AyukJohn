@@ -12,12 +12,15 @@ I'm a passionate backend software developer with a strong drive for creating inn
 ⚡ Fun fact about me: When I'm not immersed in code, you'll often find me enjoying a good game of football or delving into a captivating book. I believe that a well-rounded life leads to well-rounded creativity in coding and problem-solving. ⚽📚
 
 
-🔭 I’m currently working on the following projects:
+🔭 I’m currently working on the following Projects and Products as the backend engineer:
 - Azabox
-- SmilePayAfrica
-- Fintab
+- SmileSwape
+- BilltopNG
 - V Express
 - Antenna
+- BetSpae
+- BuildITAfrica
+- African United Space(AUS)
 
 🌱 I’m currently learning Artificial Intelligence.
 
