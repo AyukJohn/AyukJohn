@@ -6,6 +6,7 @@ I'm a passionate backend software developer with a strong drive for creating inn
 - 🐍 Python (with a focus on Django)
 - 🌐 JavaScript
 - 🖼️ Vue.js
+- 🌿 Node.js
 
 🤝 I'm always on the lookout for collaboration opportunities on interesting software development projects. If you have an idea and need a dedicated coder with expertise in these technologies to bring it to life, feel free to connect with me! 👯
 
